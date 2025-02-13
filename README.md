@@ -58,16 +58,8 @@ How to Play
   **Cause:** This error may occur if the game window is closed manually during gameplay.  
   **Solution:** The game loop is designed to handle window closures gracefully and will print "Game closed gracefully." in the console.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
 
 - [Mohamed Eid] (https://github.com/mohamedammareid)
 
-## Acknowledgments
-
-- Python Turtle documentation
-- Various online tutorials and community contributions for Python game development
-```
